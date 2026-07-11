@@ -24,8 +24,6 @@ Email Me 👉 ✉️ **dprajput9193@gmail.com** For Collaboration/Project or Any
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Deepanshu-sec&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Deepanshu-sec&limit=5&theme=dark&combine_all_yearly_contributions=true)
