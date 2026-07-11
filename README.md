@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Deepanshu Rana
-**Aspiring Cloud Security Engineer || BCA 2nd Year Student || Cybersecurity Enthusiast**
+**BCA 2nd Year Student || Learning CRM skills**
 
 Email Me 👉 ✉️ **dprajput9193@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Python • Networking • Linux • 
-- 📫 **Practicing:** TryHackMe SOC Level 1
+- 🌱 **I’m currently learning:** Python • CRM • software Engineering • 
+- 📫 **Practicing:** Trailhead
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Deepanshu-sec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
